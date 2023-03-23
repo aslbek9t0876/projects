@@ -14,7 +14,4 @@ DZR
 HZDRH
 DRH
 H
-RHZDRRHD
 
-
-sda
